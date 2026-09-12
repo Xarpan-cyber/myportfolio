@@ -1,12 +1,20 @@
-# Arpan Mahapatra's Custom Portfolio Website
+# Arpan Mahapatra's Portfolio Website
 
-Downloaded from PortfolioBuilder on 9/12/2026.
+My personal portfolio website, generated using [PortfolioBuilder](https://portfolio-builder-xred.vercel.app/) on 9/12/2026.
 
-## How to use your Portfolio Website:
-1. **Local Viewing**: Double click `index.html` to open your website in any browser.
-2. **Online Deployment**:
-   - **GitHub Pages**: Create a repo, upload `index.html` and `portfolio.css`, and enable GitHub Pages in repository Settings -> Pages.
-   - **Netlify / Vercel**: Drag and drop this folder onto netlify.com/drop or vercel.com.
+🔗 **Live site:** https://xarpan-cyber.github.io/myportfolio/
 
-Enjoy your new personal website!
-# myportfolio
+## Built With
+- [PortfolioBuilder](https://portfolio-builder-xred.vercel.app/)
+
+## How to Use
+
+**View Locally**
+Double-click `index.html` to open the site in any browser.
+
+**Deploy Online**
+- **GitHub Pages** — Create a repo, upload `index.html` and `portfolio.css`, then go to Settings → Pages and enable it.
+- **NVercel** — Drag and drop this folder onto[vercel.com](https://vercel.com).
+ 
+---
+⭐ Built with PortfolioBuilder
